@@ -1,1 +1,1 @@
-# portfolio-case-competition
+2nd place in an International Portfolio Case Competition powered by Jusan Invest, Asian Development Bank, PwC and KPMG. Designed Investment Strategy, Investment Policy Statement,  Asset Allocation Policy, Statistical Forcasting, Portfolio Optimization using MPT and Back Testing.
